@@ -1,0 +1,2 @@
+# Predicting_Employee_Retention_Soumyajit_Archanaa_Mansi
+This repo is for Logistic regression
