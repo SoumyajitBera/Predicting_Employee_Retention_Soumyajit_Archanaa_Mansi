@@ -58,7 +58,8 @@ To build a predictive model to classify whether an employee is likely to stay or
 |------|-------------|
 | `Predicting_Employee_Retention_Starter.ipynb` | Full code for data prep, EDA, modeling, and evaluation |
 | `Final_Employee_Attrition_Analysis_Report_SoumyajitBera.pdf` | Detailed multi-page report |
+| `data/Employee_data.csv` | Input dataset  |
 | `README.md` | Project documentation |
-| `data/Employee_data.csv` | Input dataset (if public) |
+
 
 
